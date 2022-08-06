@@ -34,4 +34,6 @@ Tenho iniciativa para resolver problemas com eficiência, atingir os objetivos e
 
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoutto)](https://github.com/fabiosoutto/github-readme-stats)
+
 ### Aqui abaixo você confere meus principais projetos no momento:
