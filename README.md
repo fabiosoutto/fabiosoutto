@@ -33,4 +33,5 @@ Tenho iniciativa para resolver problemas com eficiência, atingir os objetivos e
     <img align="center" alt="Wix" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
 
 </div><br/>
+
 ### Aqui abaixo você confere meus principais projetos no momento:
