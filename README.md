@@ -32,4 +32,5 @@ Tenho iniciativa para resolver problemas com eficiência, atingir os objetivos e
     <img align="center" alt="Joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
     <img align="center" alt="Wix" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
 
-</div>
+</div><br/>
+### Aqui abaixo você confere meus principais projetos no momento:
