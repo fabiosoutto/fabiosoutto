@@ -1,20 +1,20 @@
-## Olá, eu sou o Fabio Soutto!✡️
+## Hi, i'm Fabio Soutto!✡️
 
-Sou Desenvolvedor Web com 5 anos de experiência, sou formado em Gestão de Recursos Humanos pela Estácio em 2020 e trabalhei em Agência Digital onde desenvolvia sites pessoais, institucionais de produtos e serviços, landing pages, lojas virtuais, etc.
+I am a Web Developer with 5 years of experience, I have a degree in Human Resources Management in 2020 and I worked at a Digital Agency where I developed personal and institutional websites for products and services, landing pages, virtual stores.
 
-Sou responsável, dinâmico, criativo, organizado, com boa atitude e alto nível de comunicação para realizar as tarefas.
-Tenho iniciativa para resolver problemas com eficiência, atingir os objetivos e apresentar as melhores soluções aos clientes.
+I am responsible, dynamic, creative, organized, with a good attitude and a high level of communication to carry out the tasks. I have the initiative to solve problems efficiently, achieve goals and present the best solutions to customers.
 
-### Minhas Redes Sociais:
+### My social networks:
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabiosouttodev.vercel.app)
 [![Linkdedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-soutto-dev/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiosouttodev/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FabioSoutto)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoutto)](https://github.com/fabiosoutto/github-readme-stats)
 ![Fabio Soutto GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosoutto&show_icons=true&theme=radical)
 
-## Tecnologias:
+## My Skils:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,6 +34,4 @@ Tenho iniciativa para resolver problemas com eficiência, atingir os objetivos e
 
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoutto)](https://github.com/fabiosoutto/github-readme-stats)
-
-### Aqui abaixo você confere meus principais projetos no momento:
+### Here below you can see my main projects at the moment:
