@@ -1,5 +1,11 @@
 ## Olá, eu sou o Fabio Soutto!✡️
 
+Sou Desenvolvedor Web com 5 anos de experiência, sou formado em Gestão de Recursos Humanos pela Estácio em 2020 e trabalhei em Agência Digital onde desenvolvia sites pessoais, institucionais de produtos e serviços, landing pages, lojas virtuais, etc.
+
+Sou responsável, dinâmico, criativo, organizado, com boa atitude e alto nível de comunicação para realizar as tarefas.
+
+Tenho iniciativa para resolver problemas com eficiência, atingir os objetivos e apresentar as melhores soluções aos clientes.
+
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabiosouttodev.vercel.app)
 [![Linkdedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-soutto-dev/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiosouttodev/)
