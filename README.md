@@ -29,7 +29,6 @@ I am responsible, dynamic, creative, organized, with a good attitude and a high 
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
     <img align="center" alt="Joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
-    <img align="center" alt="Wix" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
 
 </div><br/>
 
