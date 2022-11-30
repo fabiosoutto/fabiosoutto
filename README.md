@@ -11,8 +11,8 @@ I am responsible, dynamic, creative, organized, with a good attitude and a high 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiosouttodev/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FabioSoutto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoutto)](https://github.com/fabiosoutto/github-readme-stats)
-![Fabio Soutto GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosoutto&show_icons=true&theme=radical)
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiosoutto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoutto&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 ## My Skils:
 
