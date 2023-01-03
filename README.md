@@ -1,6 +1,6 @@
 ## Hi, i'm Fabio Soutto!✡️
 
-I am a Full Web Developer. I have a degree in Human Resources Management in 2020 and I worked at a Digital Agency where I developed personal and institutional websites for products and services, landing pages, virtual stores.
+I am a Full Web Developer and WordPress Expert. I have a degree in Human Resources Management in 2020 and I worked at a Digital Agency where I developed personal and institutional websites for products and services, landing pages, virtual stores.
 
 I am responsible, dynamic, creative, organized, with a good attitude and a high level of communication to carry out the tasks. I have the initiative to solve problems efficiently, achieve goals and present the best solutions to customers.
 
