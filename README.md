@@ -12,9 +12,11 @@ I am responsible, dynamic, creative, organized, with a good attitude and a high 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FabioSoutto)
 
 <div>
+<!--    
 <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=fabiosoutto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoutto&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+-->
     
 ## My Skils:
 
