@@ -1,8 +1,16 @@
 ## Hi, i'm Fabio Soutto!✡️
 
-I am a Full Web Developer and WordPress Expert. I have a degree in Human Resources Management in 2020 and I worked at a Digital Agency where I developed personal and institutional websites for products and services, landing pages, virtual stores.
+My Recent Projects: https://fabiosouttodev.vercel.app/projects.html
 
-I am responsible, dynamic, creative, organized, with a good attitude and a high level of communication to carry out the tasks. I have the initiative to solve problems efficiently, achieve goals and present the best solutions to customers.
+I'm a full web developer with more 5 years of experience in developing online solutions. I have advanced skills in WordPress, Woocommerce, PHP, MySQL and Javascript, which allows me to create customized, optimized and high-performance landing pages, websites, blogs and online stores.
+
+With my experience in web development, I can help your company to achieve its goals online, either through the creation of an institutional website, a virtual store or any other custom project. I can ensure that your website is always up to date, secure and optimized for search engines to ensure your target audience can easily find you.
+
+My experience with Woocommerce allows me to create an online store that will allow your business to easily sell your products or services, including inventory management, integration of payment methods and sales reports.
+
+I understand the importance of staying in touch with my customers throughout the development process to ensure their needs and expectations are met. After your project launches, I provide ongoing support and maintenance to ensure everything runs smoothly.
+
+If you are looking for a reliable and experienced web developer to help drive your online business growth, contact me. I look forward to working with you and helping you achieve your goals.
 
 ### My social networks:
 
