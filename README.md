@@ -1,6 +1,6 @@
 ## Hi, i'm Fabio Soutto!✡️
 
-My Recent Projects: https://fabiosouttodev.vercel.app/projects.html
+My Recent Projects: https://bit.ly/FSD-Projetos
 
 I'm a full web developer with more 5 years of experience in developing online solutions. I have advanced skills in WordPress, Woocommerce, PHP, MySQL and Javascript, which allows me to create customized, optimized and high-performance landing pages, websites, blogs and online stores.
 
