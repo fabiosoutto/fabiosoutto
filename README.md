@@ -20,8 +20,8 @@ If you are looking for a reliable and experienced web developer to help drive yo
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiosouttodev/)
 
 <div>   
-<img  height="225em" src="https://github-readme-stats.vercel.app/api?username=fabiosoutto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img align="right" height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoutto&layout=compact&langs_count=16&theme=great-gatsby"/>
+<img  height="190em" src="https://github-readme-stats.vercel.app/api?username=fabiosoutto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoutto&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
     
