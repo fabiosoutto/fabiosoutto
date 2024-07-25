@@ -1,20 +1,23 @@
 ## Hi, i'm Fabio Soutto!✡️
 
-My Recent Projects: https://bit.ly/FSD-Projetos
+My WebSite: https://fabiosouttodev.com.br
 
-I'm a full web developer with more 12 years of experience in developing online solutions. I have advanced skills in WordPress, Woocommerce, PHP, MySQL and Javascript, which allows me to create customized, optimized and high-performance landing pages, websites, blogs and online stores.
+I am a Web Developer with 12 years of experience in developing online solutions. I have advanced skills in WordPress, Elementor, Woocommerce, PHP, MySQL and Javascript, which allows me to create customized, optimized and high-performance landing pages, websites, blogs and online stores.
 
-With my experience in web development, I can help your company to achieve its goals online, either through the creation of an institutional website, a virtual store or any other custom project. I can ensure that your website is always up to date, secure and optimized for search engines to ensure your target audience can easily find you.
+My main stacks are: WordPress / Elementor / PHP / JavaScript / Bubble / FlutterFlow.
 
-My experience with Woocommerce allows me to create an online store that will allow your business to easily sell your products or services, including inventory management, integration of payment methods and sales reports.
+I have skills with:
+REST API integrations, ACF (custom post types & fields), Cron Jobs, Process Automations (N8N, Zapier, Make, Pabbly), LottieFiles, VPS, dependency survey, Consumption of advanced plugins, Optimization and Core Web Vitals.
 
-I understand the importance of staying in touch with my customers throughout the development process to ensure their needs and expectations are met. After your project launches, I provide ongoing support and maintenance to ensure everything runs smoothly.
+I have been working with web development since 2011 in partnership with companies or individuals. 
+I dedicated my years of study to specializing in WordPress and its technologies. 
+Currently I have been studying and developing some solutions in Bubble and FlutterFlow. 
 
-If you are looking for a reliable and experienced web developer to help drive your online business growth, contact me. I look forward to working with you and helping you achieve your goals.
+I am responsible, dynamic, creative, organized, with a good attitude and a high level of communication to perform tasks. I have initiative to solve problems efficiently, achieve objectives and present the best solutions to clients.
 
 ### My social networks:
 
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabiosouttodev.vercel.app)
+[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabiosouttodev.com.br)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/fabiosouttodev)
 [![Linkdedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-soutto-dev/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiosouttodev/)
